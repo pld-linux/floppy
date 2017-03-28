@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Format floppy
+Name[pl]=Formatowanie dyskietek
+Comment=Format a floppy disk
+Comment[pl]=Formatowanie dyskietek
+Exec=/usr/bin/floppygtk
+Terminal=false
+Type=Application
+Categories=Application;System;
